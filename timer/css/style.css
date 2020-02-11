@@ -1,0 +1,28 @@
+.main
+{
+	background-color: skyblue;
+	height: 745px;
+}
+/* 备选色：#005eff */
+.prompt
+{
+	color: black;
+	text-align: center;
+	font-size: 80px;
+	padding-top: 240px;
+}
+.progress_bar
+{	
+	margin-top: 50px;
+	margin-left: 265px;
+	width: 1000px;
+	height: 50px;
+	background-color: red;
+	
+}
+.schedule
+{
+	width: 0px;
+	height: 50px;
+	background-color: gray;
+}
